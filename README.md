@@ -1,4 +1,4 @@
-# async-each-series-throttle
+# async-each-series-throttle [![Build Status](https://travis-ci.org/tableflip/async-each-series-throttle.svg?branch=master)](https://travis-ci.org/tableflip/async-each-series-throttle) [![dependencies Status](https://david-dm.org/tableflip/async-each-series-throttle/status.svg)](https://david-dm.org/tableflip/async-each-series-throttle)
 
 Iterate through items in series but throttle iteratee execution
 
