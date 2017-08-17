@@ -1,0 +1,22 @@
+{
+  "name": "async-each-series-throttle",
+  "version": "0.0.0",
+  "description": "Iterate through items in series but throttle iteratee execution",
+  "main": "index.js",
+  "scripts": {
+    "test": "istanbul cover tape test.js"
+  },
+  "keywords": [
+    "async",
+    "each",
+    "series",
+    "throttle"
+  ],
+  "author": "Oli Evans and Alan Shaw",
+  "license": "MIT",
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "standard": "^10.0.3",
+    "tape": "^4.8.0"
+  }
+}
