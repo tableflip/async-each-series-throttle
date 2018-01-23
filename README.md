@@ -32,3 +32,11 @@ const callback = (err, results) => {
 
 eachSeriesThrottle(items, iteratee, wait, callback)
 ```
+
+## Contribute
+
+Feel free to dive in! [Open an issue](https://github.com/tableflip/mem-storage-area/issues/new) or submit PRs.
+
+## License
+
+[MIT](LICENSE) © Oli Evans and Alan Shaw
