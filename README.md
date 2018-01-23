@@ -12,7 +12,7 @@ const items = [0, 1, 2, 3, 4]
 // Number in ms to throttle calls to iteratee
 const wait = 1000
 
-// Called only once every ~1000ms at minimum
+// Called only once every ~1000ms at maximum
 const iteratee = (item, cb) => {
   // Do some async work and callback when done
   //
